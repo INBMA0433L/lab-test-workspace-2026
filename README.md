@@ -1,12 +1,10 @@
-# Lab test's Workspace 2025
+# Lab test's Workspace 2026
 
-This repository provides the students a quick solution for creating their VS Code Workspaces for the *High-level programming languages 1* subject's *Lab test*.
+This repository provides the students a quick solution for creating their VS Code Workspaces for the *Database Systems and Knowledge Representation* subject's *Lab test*.
 
 ## Requirements
 
 1. Windows is required for executing the script. Other operating systems are not supported.
-
-1. Have an installed *MinGW* with the path `C:/MinGW/bin/gcc.exe`.
 
 1. Have an installed `git` client.
 
@@ -19,6 +17,6 @@ This repository provides the students a quick solution for creating their VS Cod
 1. Run the following commands:
 
    ```
-   git clone https://github.com/INBPA0211L/lab-test-workspace-2025 C:/university/LAB-TEST
+   git clone https://github.com/INBMA0433L/lab-test-workspace-2026 C:/university/LAB-TEST
    C:/university/LAB-TEST/launch-vs
    ```
